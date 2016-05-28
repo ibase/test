@@ -1,5 +1,5 @@
 # test
-### algorithm
+###algorithm
 **messy**
 - Eculid
 - Fibonacci
@@ -12,14 +12,16 @@
 - Merge
 - Quick
 - Select
-### learning
+
+###learning
 - digitalFormat
 - jedis
 - jxl
 - pattern & random
 - opacityWindow
 - reader & writer
-### homework
+
+###homework
 - createBlog
 - createNBits2Long
 - createNBits2LongPrime
