@@ -1,11 +1,12 @@
 # test
 ### algorithm
-** messy **
+**messy**
 - Eculid
 - Fibonacci
 - IsPrime
 - SuperPrime
-** sorts **
+
+**sorts**
 - Bubble
 - Heap
 - Merge
