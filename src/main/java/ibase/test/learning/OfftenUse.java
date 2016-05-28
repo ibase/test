@@ -6,15 +6,10 @@ import java.util.regex.Pattern;
 
 public class OfftenUse {
 
-    public static void main(String[] args) {
-
-
-    }
-
     /**
      * Pattern
      */
-    public void usePatter(){
+    public void usePattern(){
         String value = "1111111<div class=\"class\">3333333</div>555555";
         Pattern p = Pattern.compile("(.*)(<div class=\"class\">)(.*?)(</div>)(.*)");
         Matcher m = p.matcher(value);
